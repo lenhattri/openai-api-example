@@ -17,7 +17,8 @@
     mkdir src
     cd src
     ```
-- Clone git và pull git: Fork git này về git của bạn sau đó :
+- Clone git và pull git:
+  + Fork git này về git của bạn sau đó :
     ```
     git clone https://github.com/{tên-git-của-bạn}/openai-api-example
     ```
