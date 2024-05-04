@@ -33,5 +33,5 @@
 
 
 # DOCUMENTATIONS
-[Link các bài viết trên trang chủ openai về openai API](https://cookbook.openai.com/)
-[Link về OpenAI Assistants API](https://platform.openai.com/docs/assistants/how-it-works)
+- [Link các bài viết trên trang chủ openai về openai API](https://cookbook.openai.com/)
+- [Link về OpenAI Assistants API](https://platform.openai.com/docs/assistants/how-it-works)
