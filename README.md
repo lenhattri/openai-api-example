@@ -18,7 +18,7 @@
     cd src
     ```
 - Clone git và pull git:
-  + Fork git này về git của bạn sau đó :
+  + Fork repo này về git của bạn sau đó :
     ```
     git clone https://github.com/{tên-git-của-bạn}/openai-api-example
     ```
