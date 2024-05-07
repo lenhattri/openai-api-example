@@ -15,7 +15,7 @@
   - Unix hoặc MacOS:
   
       ```
-    source venv/bin/activate
+    source rd_venv/bin/activate
       ```
 - Tạo folder src :
 
