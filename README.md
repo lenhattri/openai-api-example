@@ -8,7 +8,7 @@
 - Activate venv:
   - Windows:
     ```
-    cd venv\Scripts
+    cd rd_venv\Scripts
     .\activate
     ```
     
