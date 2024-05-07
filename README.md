@@ -6,10 +6,17 @@
     python -m venv rd_venv
     ```
 - Activate venv:
+  - Windows:
     ```
-    cd rd_venv/Scripts
+    cd venv\Scripts
     .\activate
     ```
+    
+  - Unix hoặc MacOS:
+  
+      ```
+    source venv/bin/activate
+      ```
 - Tạo folder src :
 
     ```
