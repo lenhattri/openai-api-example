@@ -1,0 +1,16 @@
+{
+    "name": "get_timezone",
+    "description": "Get current time of a position ",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "location": {
+          "type": "string",
+          "description": "The city and state e.g. Asia/Ho_Chi_Minh"
+        }
+      },
+      "required": [
+        "location"
+      ]
+    }
+  }
